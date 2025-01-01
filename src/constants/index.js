@@ -40,6 +40,7 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
 	{
+		id: 1,
 		title: 'E-Commerce Website',
 		image: project1,
 		description:
@@ -47,6 +48,7 @@ export const PROJECTS = [
 		technologies: ['HTML', 'CSS', 'React', 'Node.js', 'MongoDB'],
 	},
 	{
+		id: 2,
 		title: 'Task Management App',
 		image: project2,
 		description:
@@ -54,6 +56,7 @@ export const PROJECTS = [
 		technologies: ['HTML', 'CSS', 'Angular', 'Firebase'],
 	},
 	{
+		id: 3,
 		title: 'Portfolio Website',
 		image: project3,
 		description:
@@ -61,6 +64,7 @@ export const PROJECTS = [
 		technologies: ['HTML', 'CSS', 'React', 'Bootstrap'],
 	},
 	{
+		id: 4,
 		title: 'Blogging Platform',
 		image: project4,
 		description:
