@@ -1,5 +1,4 @@
 import { FaGithub, FaInstagram, FaLinkedin, FaTwitter } from 'react-icons/fa';
-import logo from '../assets/projects/gaboIcon.webp';
 
 const Navbar = () => {
 	return (
@@ -9,11 +8,7 @@ const Navbar = () => {
 					href='/'
 					aria-label='Home'
 				>
-					<img
-						className='w-[80px]'
-						src={logo}
-						alt='Logo'
-					/>
+					<p className='text-2xl text-white font-bold '>gabo.</p>
 				</a>
 			</div>
 			<div className='flex items-center justify-center gap-4 text-2xl'>
