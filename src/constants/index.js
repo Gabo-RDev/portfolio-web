@@ -3,7 +3,7 @@ import project2 from '../assets/projects/project-2.webp';
 import project3 from '../assets/projects/project-3.webp';
 import project4 from '../assets/projects/project-4.webp';
 
-export const HERO_CONTENT = `I am a passionate JavaScript developer with a knack for crafting robust and scalable web applications. Through various personal and academic projects, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies.`;
+export const HERO_CONTENT = `A developer with a knack for crafting robust and scalable web applications. Through various personal and academic projects, I have honed my skills in front-end technologies.`;
 
 export const ABOUT_TEXT = `Versatile JavaScript developer with experience in React, Next.js, Node.js, and databases like MySQL, PostgreSQL, and MongoDB. Passionate about crafting efficient and user-friendly web applications, solving complex problems, and collaborating in dynamic environments. Always learning and exploring new technologies.`;
 
