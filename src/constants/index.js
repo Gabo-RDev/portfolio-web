@@ -20,7 +20,7 @@ export const PROJECTS = [
 	{
 		id: 2,
 		title: 'Todo App',
-		link: 'https://todo-app-ny2yufkg8-imnotgabos-projects.vercel.app/',
+		link: 'https://todo-app-ts-plum.vercel.app/',
 		image: project2,
 		description:
 			'A project developed to demonstrate skills in TypeScript, React and state management.',
