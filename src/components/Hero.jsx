@@ -48,7 +48,7 @@ const Hero = () => {
 						</motion.p>
 						<motion.a
 							className='bg-white rounded-full p-4 text-sm text-stone-800 mb-10'
-							href='../assets/resume.pdf'
+							href='https://gabo-resume-3z341zjjo-imnotgabos-projects.vercel.app/'
 							target='_blank'
 							rel='noopener noreferrer'
 							download
