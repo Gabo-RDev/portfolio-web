@@ -21,7 +21,7 @@ const Navbar = () => {
 					<FaLinkedin />
 				</a>
 				<a
-					href='https://www.linkedin.com/in/imnotgabo/'
+					href='https://github.com/Gabo-RDev'
 					target='_blank'
 					rel='noopener noreferrer'
 					aria-label='GitHub'
