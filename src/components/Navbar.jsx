@@ -13,7 +13,7 @@ const Navbar = () => {
 			</div>
 			<div className='flex items-center justify-center gap-4 text-2xl'>
 				<a
-					href='https://www.linkedin.com/in/imnotgabo/'
+					href='https://www.linkedin.com/in/gabrielduarterodriguez/'
 					target='_blank'
 					rel='noopener noreferrer'
 					aria-label='LinkedIn'
